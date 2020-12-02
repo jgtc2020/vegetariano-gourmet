@@ -1,0 +1,27 @@
+.header-oficial{
+  z-index:10000;
+  position:fixed;
+  height:60px !important;
+  box-shadow:1px 10px 15px rgba(17,23,21,.2);
+  padding:15px;
+  width:100%;
+  background:#fff;
+}
+.nav-header h1{
+  display:inline-block;
+  font-size:18px;
+  font-family:'Poppins', sans-serif;
+  margin-top:3px;
+}
+
+.img-flag{
+  display:inline-block;
+  float: right;
+  width:32px;
+  height:32px;
+}
+.item-nav-header-home{
+  display:inline-block;
+  float:right;
+  padding:0px 10px;
+}
